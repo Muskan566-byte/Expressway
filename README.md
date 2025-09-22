@@ -1,9 +1,20 @@
 # Myntra Expressway – Smart Fashion Assistant 🚀
 
-Myntra Expressway is an AI-powered **fashion planner and shopping companion** that helps users stay **event-ready, budget-friendly, and socially stylish**.  
-It combines **event-based outfit planning**, **wardrobe matching**, and **group shopping** into one seamless experience.  
+
+**Myntra Expressway** is an **AI-powered fashion planner and shopping companion** designed to make dressing up smarter, cost-effective, and socially engaging.  
+It combines **event-aware outfit recommendations, wardrobe intelligence, and collaborative shopping** into one seamless experience, ensuring users are always **event-ready, stylish, and confident**.
 
 ---
+
+## Problem Customers Face🚨: 
+
+Customers today face multiple challenges while shopping for fashion online:
+
+- **Last-minute rush** – Before personal events (weddings, office meetings, birthday parties, college fests), users often scramble to put together outfits.  
+- **Lack of personal context** – Generic recommendations (e.g., *“Diwali offers”*) ignore specific event requirements (cousin’s engagement vs. friend’s wedding vs. mom’s birthday).  
+- **Decision fatigue** – Huge online catalogs make browsing, comparing, and mixing items manually exhausting and time-consuming.  
+- **Wardrobe disconnect** – Shoppers often buy new clothes without reusing existing items, increasing cost and reducing affordability.  
+- **No social touch** – Online shopping lacks instant peer feedback, unlike offline shopping trips with friends and family.
 
 ## 🔥 Features
 
@@ -15,38 +26,45 @@ The **Style Scheduler** acts as your **personal stylist calendar**.
 - AI curates **complete outfits** tailored to the occasion.  
 - Smart reminders (T-10, T-5, T-2 days) so you never miss an event look.  
 - Expressway-eligible suggestions ensure delivery before the event.  
-- Optional AR try-on to preview the look.  
+- Optional AR try-on to preview the look for future scope.  
 
-📸 *Screenshot / UI Mockup Placeholder*  
-![Style Scheduler Screenshot](./screenshots/style-scheduler.png)  
+📸 Demo 
+<br></br>
+![Style Scheduler Screenshot](DemoUploads/Demo3.png)  
+<br><br>
+![Style Scheduler Screenshot](DemoUploads/Demo4.png) 
 
----
 
 ### 2. 👕 Wardrobe Matcher  
 The **Wardrobe Matcher** ensures **cost-friendly shopping** by using what you already own.  
-- Upload your wardrobe (photos) or auto-sync past Myntra purchases.  
+- Upload your wardrobe (photos) and in future scope auto-sync past Myntra purchases.  
 - AI suggests only **missing pieces** to complete the look.  
-- Smart mix-and-match recommendations to reuse clothes.  
-- Three tiers of suggestions:  
-  - Budget-friendly (reuse more)  
-  - Mid-range  
-  - Premium (fresh new look)  
+- Smart recommendations to reuse clothes.  
+- Encourage reuse of existing wardrobe → Myntra becomes a “sustainable fashion partner.”
+  
+📸 Demo: 
+<br></br>
+![Style Scheduler Screenshot](DemoUploads/Demo5.png)  
+<br><br>
+![Style Scheduler Screenshot](DemoUploads/Demo6.png) 
 
-📸 *Screenshot / UI Mockup Placeholder*  
-![Wardrobe Matcher Screenshot](./screenshots/wardrobe-matcher.png)  
 
 ---
 
 ### 3. 👯 Group Shopping  
 The **Group Shopping** feature enables **social styling** for events.  
 - Create groups with friends, colleagues, or family.  
-- AI suggests **coordinated outfit sets** (themes, colors, styles).  
+- Getting upvoting and downvoting from peers.  
 - Great for weddings, parties, team functions, or festive events.  
-- Shared cart and optional **cost-split checkout**.  
+- Shared cart and can also add optional feature **cost-split checkout**.  
 - Enhances engagement and builds community around fashion.  
 
-📸 *Screenshot / UI Mockup Placeholder*  
-![Group Shopping Screenshot](./screenshots/group-shopping.png)  
+📸 Demo:
+<br></br>
+![Style Scheduler Screenshot](DemoUploads/Demo1.png)  
+<br><br>
+![Style Scheduler Screenshot](DemoUploads/Demo2.png) 
+
 
 ---
 
